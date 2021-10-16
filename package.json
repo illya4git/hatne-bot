@@ -1,0 +1,23 @@
+{
+  "name": "hatne-bot",
+  "version": "1.0.0",
+  "description": "Simple homework organizer Telegram bot for post-soviet schools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/illya4git/hatne-bot.git"
+  },
+  "author": "illya4git",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/illya4git/hatne-bot/issues"
+  },
+  "homepage": "https://github.com/illya4git/hatne-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.54.0",
+    "sqlite3": "^5.0.2"
+  }
+}
