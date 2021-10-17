@@ -1,3 +1,4 @@
+require('dotenv').config();
 const db = require('./modules/db.js');
 
 db.addSubject('Russian Literature')
